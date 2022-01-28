@@ -1,1 +1,2 @@
-# Crisis_Manager_-_End-Game_Edition
+# Crisis_Manager_End
+Crisis Manager - End-Game Edition
